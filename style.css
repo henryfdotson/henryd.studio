@@ -1,0 +1,69 @@
+body {
+    background-color: #181a1b;
+    color: white;
+    font-family: 'EB Garamond', serif;
+    /* margin: auto; */
+    /* width: 50%; */
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+h1 {
+    font-size: 3em;
+}
+
+p,a,i,b, li.contact-item {
+     font-size: 1.5em;
+}
+
+.contactList li {
+    margin: 0em;
+}
+
+#contact, #about {
+    text-align: left;
+}
+
+#aboutImage {
+    width: 25%;
+    float: left;
+}
+
+#aboutImage img {
+    width: 80%;
+    margin: 20%;
+    margin-top: 0px;
+}
+
+#aboutDescription {
+    width: 75%;
+    float: left;
+}
+
+div#aboutDescription p {
+    width: 80%;
+    margin: 20%;
+    margin-top: 0px;
+}
+
+.backbutton {
+    text-align: left;
+    margin: 2em;
+}
+a,
+a:visited {
+    color: #6BD0FF;
+}
+
+li {
+    margin: 1em;
+    list-style-type: disclosure-closed;
+}
+
+#homeImage {
+    max-width: 35em;
+}
