@@ -16,11 +16,12 @@
 </head>
 <body>
 <h1>henryd.studio</h1>
+<p>Philadelphia, PA</p>
 <img src="<?php echo $randomImage ?>" id="homeImage" />
 <div id="date-time"></div>
 <div id="nav">
 <a href="/about.php">about</a> -
-<a href="">resume</a> -
+<a href="https://docs.google.com/document/d/1Npps1HTL0XLMM3XFGOym5WqFlYdfMssT_S1B6T8n0mc" target="_blank">resume</a> -
 <a href="/contact.php">contact</a>
 
 </div>
