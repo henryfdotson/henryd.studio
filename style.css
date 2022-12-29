@@ -1,7 +1,7 @@
 body {
-    background-color: #181a1b;
-    color: white;
-    font-family: 'EB Garamond', serif;
+    background-color: #181a1b !important;
+    color: white !important;
+    font-family: 'EB Garamond', serif !important;
     /* margin: auto; */
     /* width: 50%; */
     text-align: center;
@@ -44,4 +44,8 @@ li {
 
 #homeImage {
     max-width: 35em;
+}
+
+.bioimage {
+    width: 100%;
 }
